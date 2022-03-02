@@ -1,6 +1,6 @@
-# Masti Music 🎸
+# 𝐌𝐀𝐒𝐓𝐈 𝐊𝐢 𝐃𝐮𝐧𝐢𝐲𝐚🎸
 
-## Give your 💙
+## spot patelmod  💙
 
 Before clicking on deploy to heroku just click on fork and star just below
 
@@ -72,7 +72,7 @@ $ python3 -m Tamilini
 ```
 </details>
   
-Not Getting VPS Method? Contact [Support ❤](https://t.me/TamilSupport)
+Not Getting VPS Method? Contact [Support ❤](https://t.me/masti_kiduniya)
   
 ### GET STRING SESSION FROM REPL RUN :
 
@@ -91,17 +91,17 @@ Click the below button to watch the video tutorial on deploying
 <a href="https://youtu.be/zV1bV9w2iYU"><img src="https://img.shields.io/badge/How%20To%20Deploy-RAILWAY-blue.svg?logo=Youtube"></a>
 <a href="https://youtu.be/zV1bV9w2iYU"><img src="https://img.shields.io/youtube/views/zV1bV9w2iYU?style=social"></a>
 
-# Reach Me On Telegram : [🎸𝐓𝐚𝐦𝐢𝐥𝐢𝐧𝐢 𝐌𝐮𝐬𝐢𝐜🎶](https:t.me/TamiliniMusicBot)
+# Reach Me On Telegram : [🎸𝐌𝐀𝐒𝐓𝐈 𝐊𝐢 𝐃𝐮𝐧𝐢𝐲𝐚🎶](https:t.me/TamiliniMusicBot)
 
 ![logo](https://telegra.ph/file/8aa4444ae3a3cb65fc93a.jpg)
 
-## Made with ❤️ By [TamilBots](https://t.me/TamilBots) 🤖
+## Made with ❤️ By [patelmod](https://t.me/masti_kiduniya) 🤖
 
 # Report Any Error or Help Contact :
-<a href="https://t.me/TamilBots"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"> - [Channel 💬](https://t.me/TamilBots),
+<a href="https://t.me/masti_kiduniya"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"> - [Channel 💬](https://t.me/masti_kiduniya),
 
-<a href="https://t.me/TamilSupport"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"> - 
-[Support ❤️](hppppp) 
+<a href="https://t.me/masti_kiduniya"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"> - 
+[Support ❤️](https://t.me/masti_kiduniya) 
 
 ##### Credits :
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
