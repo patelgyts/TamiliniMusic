@@ -1,4 +1,4 @@
-# Tamilini Music 🎸
+# Masti Music 🎸
 
 ## Give your 💙
 
@@ -101,7 +101,7 @@ Click the below button to watch the video tutorial on deploying
 <a href="https://t.me/TamilBots"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"> - [Channel 💬](https://t.me/TamilBots),
 
 <a href="https://t.me/TamilSupport"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"> - 
-[Support ❤️](https://t.me/TamilSupport) 
+[Support ❤️](hppppp) 
 
 ##### Credits :
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
